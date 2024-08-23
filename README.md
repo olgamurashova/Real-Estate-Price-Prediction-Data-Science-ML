@@ -6,4 +6,4 @@
 + Python Pandas, Numpy
 + Matplotlib
 + Jupiter Notebook
-+ Scikit-learn (LogisticRegression, Lasso, DecisionTreeRegressor,cross validation, train_test_split, GridSearchCV)
++ Scikit-learn (LinearRegression, Lasso, DecisionTreeRegressor,cross validation, train_test_split, GridSearchCV)
